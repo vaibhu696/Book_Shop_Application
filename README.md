@@ -1,6 +1,6 @@
 # Book_Shop_Application
 
-# The Bookshop Application is a web-based project designed for managing book records. It allows users to register new books, view a list of all books, and perform actions like editing or deleting book records. This application is developed using Java Servlets, JSP, JDBC, and MySQL.
+ The Bookshop Application is a web-based project designed for managing book records. It allows users to register new books, view a list of all books, and perform actions like editing or deleting book records. This application is developed using Java Servlets, JSP, JDBC, and MySQL.
 
 
 # HTML CODE
